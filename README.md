@@ -1,8 +1,8 @@
-## ❣ 기본 정보​
+## ❣ 기본 정보
 
 이규현 < iOS 개발자 > 서울시 성동구, 010-7299-2027 ​qbbang@gmail.com​       ​github.com/qbbang​   ​qbbang.github.io
 
-❣ 3 줄 요약​    
+❣ 3 줄 요약   
 
 ● H/W 엔지니어에서 S/W 전향, 새로운 환경에 대한 스킨십이 좋음
 
@@ -45,7 +45,7 @@ Others ​​Git & Github, Slack
 
 ◼◼◼◼◻ : 협업 툴을 사용하여, 의사 진행이 가능
    
- ❣ 프로젝트​    
+ ❣ 프로젝트 
     배민찬 APP — ​​github.com/ElegantSiblings/iOS​​ ​​ 2018.11.26 - 2018.12.20
 ● 개요 : 백엔드와 협업하여, 배민찬 APP 개발
 ● 내용 : Anchor로 오토레이아웃을 잡고, Alamofire를 이용하여 JSON를 비동기 처리,
