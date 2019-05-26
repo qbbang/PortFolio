@@ -61,6 +61,34 @@ iOS 교육, 인턴과정 등을 통해 Moblie 앱 개발자로 막 발 디딘 �
 
 ---
 
+### 2019.02.25 - 2019.02.27 - 자기소개
+
+#### 주제 : 굿닥몬?
+
+사원들을 굿닥몬이라고 표현한다고?
+
+그렇다면 포켓몬이다
+
+유쾌한 분위기에 맞게 나를 소개 해볼까? 
+
+굿닥몬을 잡자!
+
+![](/etc/Portfolio_Goodocmon.gif)
+
+#### 사용된 기술 및 Pods
+
+    - Adobe After Effects + Bodymovin ➡️  JSON animation 생성
+
+    - Lottie ➡️ JSON animation 재생
+
+    - AVFoundation ➡️ wav 파일 재생
+
+    - Timer ➡️ scheduledTimer로 text 타이핑 효과
+
+#### [GitHub - 굿닥몬 상세보기](https://github.com/qbbang/goodocmon)
+
+---
+
 ### 2018.11.26 - 2018.12.20 - 상용 앱 따라하기
 
 #### 주제 : 배달의민족 반찬 
