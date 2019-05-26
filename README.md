@@ -70,17 +70,25 @@ iOS 교육, 인턴과정 등을 통해 Moblie 앱 개발자로 막 발 디딘 �
 
 ### 2019.03.11 - 2019.05.17 - X-Pilot 간헐적단식
 
-#### 업무 요구 사항 : 실제 업무에 도움이 되는 사이드 프로젝트를 
+#### 업무 요구 사항 : 실제 업무에 도움이 되는 사이드 프로젝트를 제안
 
 ![](/etc/Portfolio_fasting.gif)
 
 #### 사용된 기술 및 Pods
 
-    - Adobe After Effects + Bodymovin ➡️  JSON animation 생성
+    - 서비스 기획 ➡️ 재사용률을 높히기 위해 굿닥ID를 가지고 있는 앱 사용자에게 맞춤 서비스를
+    
+    - UML ➡️ API 설계를 위해 시퀸스, 유저케이스 다이어그램 작성
+    
+    - Adobe XD ➡️  프로토타입 제작
 
-    -  
+    - Alamofire ➡️ API Server에 단식 설정, 기록 정보 송수신
+    
+    - Local Notification ➡️ 단식 설정에 따른 시작과 끝 시간 알람
+    
+    - NSFilemanager ➡️ cache directory를 생성하여 단식 JSON 파일 저장 및 
 
-#### [GitHub - 네이버지도전환 상세보기](https://github.com/qbbang/goodocIntern)
+#### [GitHub - 간헐적단식 상세보기](https://github.com/qbbang/goodocIntern)
 
 ---
 
@@ -94,9 +102,11 @@ iOS 교육, 인턴과정 등을 통해 Moblie 앱 개발자로 막 발 디딘 �
 
 #### 사용된 기술 및 Pods
 
-    - Adobe After Effects + Bodymovin ➡️  JSON animation 생성
+    - Objective-C 코드 Swift 전환
 
-    -  
+    - 메소드는 한 가지 기능에 집중 하도록 네이버 지도 뷰클래스 재설계
+    
+    - 네이버지도 매니저 클래스 구조 재 설계
 
 #### [GitHub - 네이버지도전환 상세보기](https://github.com/qbbang/goodocIntern)
 
