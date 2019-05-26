@@ -88,7 +88,7 @@ iOS 교육, 인턴과정 등을 통해 Moblie 앱 개발자로 막 발 디딘 �
     
     - NSFilemanager ➡️ cache directory를 생성하여 단식 JSON 파일 저장 및 
 
-#### [GitHub - 간헐적단식 상세보기](https://github.com/qbbang/goodocIntern)
+#### [GitHub - 간헐적단식 상세보기](https://github.com/qbbang/fasting)
 
 ---
 
