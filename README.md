@@ -69,6 +69,8 @@ iOS 교육, 인턴과정 등을 통해 Moblie 앱 개발자로 막 발 디딘 �
 
     - 검색 / 장바구니 / 주문
 
+![](/etc/Portfolio_bae.gif)
+
 #### 역할 
 
     - 네트워크 데이터 처리
@@ -79,7 +81,7 @@ iOS 교육, 인턴과정 등을 통해 Moblie 앱 개발자로 막 발 디딘 �
 
     : Alamofire, FSCalendar, FacebookCore, FacebookLogin
 
-#### [GitHub - 배민찬](https://github.com/ElegantSiblings/iOS)
+#### [GitHub - 배민찬 상세보기](https://github.com/ElegantSiblings/iOS)
 
 ---
 
@@ -101,7 +103,7 @@ iOS 교육, 인턴과정 등을 통해 Moblie 앱 개발자로 막 발 디딘 �
     
     - 파싱 데이터를 뷰에 뿌림
 
-#### [GitHub - Parkable](https://github.com/LeeKimTeam/hackathon)
+#### [GitHub - Parkable 상세보기](https://github.com/LeeKimTeam/hackathon)
 
 ---
 
