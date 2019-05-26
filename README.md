@@ -58,6 +58,23 @@ iOS 교육, 인턴과정 등을 통해 Moblie 앱 개발자로 막 발 디딘 �
 ---
 
 # 포트폴리오
+---
+
+### 2019.03.11 - 2019.05.10 - 네이버지도 SDK 3.0 전환
+
+#### 업무 요구 사항 : 네이버지도 Objective-C 코드 Swift 전환, SDK 2.0 ➡️ SDK 3.0 마이그레이션
+
+![](/etc/Portfolio_naver.gif)
+
+#### 사용된 기술 및 Pods
+
+    - Adobe After Effects + Bodymovin ➡️  JSON animation 생성
+
+    -  
+
+#### [GitHub - 네이버지도전환 상세보기](https://github.com/qbbang/goodocIntern)
+
+---
 
 ---
 
