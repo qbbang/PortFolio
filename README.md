@@ -1,6 +1,6 @@
 # 이력서
 
-![](/etc/update190526.png)
+![](/etc/update190527.jpg)
 
 ---
 
