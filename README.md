@@ -21,8 +21,6 @@
     
     - "인스타그램 더보기"와 같은 효과를 주기 위해 TextView layoutManager    
 
-#### 🔍 [Repository - "태그" 기능 상세보기](https://github.com/qbbang/bejewel_tag)
-
 ------
 
 ### 👉 관리자 승인 App 👈
