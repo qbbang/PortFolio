@@ -13,6 +13,15 @@
 
 ![](/etc/tags.gif)
 
+
+<img src="/etc/태그탭.PNG" width="30%" height="30%" />        <img src="/etc/태그탭_패턴.png" width="30%" height="30%" />
+
+<img src="/etc/태그상세_피드.PNG" width="30%" height="30%" />        <img src="/etc/패턴.png" width="30%" height="30%" />
+
+<img src="/etc/리뷰상세_태그.PNG" width="30%" height="30%" />        <img src="/etc/상품상세_태그-접힘.PNG" width="30%" height="30%" />
+
+<img src="/etc/브랜드_태그.PNG" width="30%" height="30%" />        <img src="/etc/브랜드_상세-태그.PNG" width="30%" height="30%" />
+
 #### 📲 사용된 기술 및 Pods
 
     - MVVM 구조 + programmatically
