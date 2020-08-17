@@ -17,17 +17,11 @@
 
     - 정해진 순서가 있는 16개 이미지 노출을 위한 UICollectionView Custom Layout
     
-    - 
+    - "인스타그램 더보기"와 같은 효과를 주기 위해 TextView layoutManager
     
-    - Adobe XD ➡️  프로토타입 제작
-    
-    - Alamofire ➡️ API Server에 단식 설정, 기록 정보 송수신
-    
-    - Local Notification ➡️ 단식 설정에 따른 시작과 끝 시간 알람
-    
-    - NSFilemanager ➡️ cache directory를 생성하여 단식 JSON 파일 저장 및 
+    - MVVM 구조 + programmatically
 
-#### 🔍 [Repository - 태그기능 상세보기](깃헙주소)
+#### 🔍 [Repository - "태그" 기능 상세보기](https://github.com/qbbang/bejewel_tag)
 
 ------
 
@@ -40,7 +34,7 @@
 
 #### 📲 사용된 기술 및 Pods
 
-#### 🔍 [Repository - 태그기능 상세보기]()
+#### 🔍 [Repository - 관리자 승인 App 상세보기](https://github.com/qbbang/bejewel_admin)
 　
  　
   　
