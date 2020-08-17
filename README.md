@@ -151,13 +151,17 @@
 
 #### 📲 사용된 기술 및 Pods
 
-    Alamofire, FSCalendar, FacebookCore, FacebookLogin
+    - Alamofire
+    
+    - FSCalendar
+    
+    - FacebookCore
+    
+    - FacebookLogin
 
 #### 🔍 [Repository - 배민찬 상세보기](https://github.com/ElegantSiblings/iOS)
 
 ---
-
-
 
 ### 👉 iOS 스쿨 해커톤 👈
 
@@ -177,12 +181,10 @@
 
 #### 📲 사용된 기술 및 Pods
 
-    - XML 파싱
+    - XML parser
     
-    - 파싱 데이터를 뷰에 뿌림
+    - MAP Kit
+    
+    - Core Location
 
 #### 🔍 [Repository - Parkable 상세보기](https://github.com/LeeKimTeam/hackathon)
-
-------
-
-
