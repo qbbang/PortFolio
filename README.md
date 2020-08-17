@@ -11,7 +11,7 @@
  　
 #### ✅ 업무 요구 사항 : "태그" 기능 추가
 
-![](/etc/tags.gif =150x320)
+![](/etc/tags.gif){:height="36px" width="36px"}
 
 #### 📲 사용된 기술 및 Pods
 
