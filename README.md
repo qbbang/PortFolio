@@ -15,11 +15,11 @@
 
 #### 📲 사용된 기술 및 Pods
 
+    - MVVM 구조 + programmatically
+    
     - 정해진 순서가 있는 16개 이미지 노출을 위한 UICollectionView Custom Layout
     
-    - "인스타그램 더보기"와 같은 효과를 주기 위해 TextView layoutManager
-    
-    - MVVM 구조 + programmatically
+    - "인스타그램 더보기"와 같은 효과를 주기 위해 TextView layoutManager    
 
 #### 🔍 [Repository - "태그" 기능 상세보기](https://github.com/qbbang/bejewel_tag)
 
@@ -30,15 +30,39 @@
 `2019.09 - 2019.11`
 　
  　
-#### ✅ 업무 요구 사항 :
+#### ✅ 업무 요구 사항 : 외부에서도 담당 MD가 승인 업무를 할 수 있도록 관리자 앱 구현
+
+![](/etc/관리자앱.png)
 
 #### 📲 사용된 기술 및 Pods
+        
+    - MVVM + RxSwift + Moya
 
 #### 🔍 [Repository - 관리자 승인 App 상세보기](https://github.com/qbbang/bejewel_admin)
+
+----
+
+### 👉 기타 업무 👈 　
+
+`2019.07 - 2020.08`
 　
  　
-  　
+    - 애플로그인 추가
+    
+    - FirebaseRemoteConfig 추가
+    
+    - SwiftLint 적용(disabled_rules) 
+
+    - UI 개선, 업데이트  
+
+    - 유지보수 
+
+    
+----
+  
  　
+ 　
+  　
 ## 🏢 굿닥  - "iOS 개발자 인턴", 2019.07.01 ~ 2020.08.14
 
 ### 👉 X-Pilot 간헐적단식 👈
@@ -67,8 +91,6 @@
 #### 🔍 [Repository - 간헐적단식 상세보기](https://github.com/qbbang/fasting)
 
 ------
-
-
 
 ### 👉 네이버지도 SDK 2.0 -> 3.0 마이그레이션 👈
 
