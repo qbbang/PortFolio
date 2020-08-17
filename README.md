@@ -9,9 +9,23 @@
 `2020.02 - 2020.07`
 　
  　
-#### ✅ 업무 요구 사항 :
+#### ✅ 업무 요구 사항 : "태그" 기능 추가
+
+![](/etc/tags.gif)
 
 #### 📲 사용된 기술 및 Pods
+
+    - 정해진 순서가 있는 16개 이미지 노출을 위한 UICollectionView Custom Layout
+    
+    - 
+    
+    - Adobe XD ➡️  프로토타입 제작
+    
+    - Alamofire ➡️ API Server에 단식 설정, 기록 정보 송수신
+    
+    - Local Notification ➡️ 단식 설정에 따른 시작과 끝 시간 알람
+    
+    - NSFilemanager ➡️ cache directory를 생성하여 단식 JSON 파일 저장 및 
 
 #### 🔍 [Repository - 태그기능 상세보기](깃헙주소)
 
