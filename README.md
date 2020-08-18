@@ -30,7 +30,9 @@
  　
 #### ✅ 업무 요구 사항 : 외부에서도 담당 MD가 승인 업무를 할 수 있도록 관리자 앱 구현
 
-<img src="/etc/관리자앱.png" width="80%" height="80%" />
+
+<img src="/etc/관리자앱.png" width="30%" height="30%" />
+
 
 #### 📲 사용된 기술 및 Pods
         
