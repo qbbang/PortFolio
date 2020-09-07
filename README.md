@@ -1,8 +1,26 @@
 # 포트폴리오
 　
-## 🧑🏻‍💻  디프만 8
+## 🧑🏻‍💻  디프만(디자이너와 프로그래머가 만났을 때) 8기 - "iOS 개발자", 2020.07.11 ~
 
+### 👉 워밍업 프로젝트 "북쪽으로" 👈
+`2020.07.25 - 2020.08.29`
 
+ 　
+#### ✅ 업무 요구 사항 : 기획부터 디자이너와 개발자 간 협업을 통해 프로젝트 완성
+
+![](/etc/tags.gif)
+
+#### 📲 사용된 기술 및 Pods
+
+    - MVVM 구조 + programmatically
+    
+    - 정해진 순서가 있는 16개 이미지 노출을 위한 UICollectionView Custom Layout
+    
+    - "인스타그램 더보기"와 같은 효과를 주기 위해 TextView layoutManager    
+
+#### 🔍 [Repository - 관리자 승인 App 상세보기](https://github.com/qbbang/bejewel_admin)
+
+------
   　
 ## 🏢 Bejewel - "iOS 개발자", 2019.07.01 ~ 2020.08.14
 
@@ -32,13 +50,15 @@
  　
 #### ✅ 업무 요구 사항 : 외부에서도 담당 MD가 승인 업무를 할 수 있도록 관리자 앱 구현
 
-![](/etc/admin.png)
+![](/etc/3조_다해조_데모.mp4)
 
 #### 📲 사용된 기술 및 Pods
         
-    - MVVM + RxSwift + Moya
+    - MVVM + Coordinator
+    - Naver Maps
+    - Moya + RxSwfit
 
-#### 🔍 [Repository - 관리자 승인 App 상세보기](https://github.com/qbbang/bejewel_admin)
+#### 🔍 [Repository - 북쪽으로 App 상세보기](https://github.com/depromeet/8th_warming-up_3team_iOS)
 
 ----
 
