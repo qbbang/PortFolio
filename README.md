@@ -29,7 +29,7 @@
     
     - Moya + RxSwift
 
-#### 🔍 [Repository - 관리자 승인 App 상세보기](https://github.com/depromeet/8th_warming-up_3team_iOS)
+#### 🔍 [Repository - 북쪽으로 App 상세보기](https://github.com/depromeet/8th_warming-up_3team_iOS)
 
 ------
 
@@ -63,15 +63,13 @@
  　
 #### ✅ 업무 요구 사항 : 외부에서도 담당 MD가 승인 업무를 할 수 있도록 관리자 앱 구현
 
-![](/etc/3조_다해조_데모.mp4)
+![](/etc/admin.png)
 
 #### 📲 사용된 기술 및 Pods
         
-    - MVVM + Coordinator
-    - Naver Maps
-    - Moya + RxSwfit
+    - MVVM + RxSwift + Moya
 
-#### 🔍 [Repository - 북쪽으로 App 상세보기](https://github.com/depromeet/8th_warming-up_3team_iOS)
+#### 🔍 [Repository - 관리자 승인 App 상세보기](https://github.com/qbbang/bejewel_admin)
 
 ----
 
