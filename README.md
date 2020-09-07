@@ -5,20 +5,28 @@
 ### 👉 워밍업 프로젝트 "북쪽으로" 👈
 `2020.07.25 - 2020.08.29`
 
+#### ✅ 주제 : 북쪽으로- 마음을 움직이는 책을 따라서
+
+```
+내가 읽고 있는 책을 기록하자
+
+그리고 공유하여, 새로운 책의 인사이트 얻어가자!
+
+```
  　
 #### ✅ 업무 요구 사항 : 기획부터 디자이너와 개발자 간 협업을 통해 프로젝트 완성
 
-![](/etc/tags.gif)
+[![]()](https://youtu.be/kDgDhW0ooQs)
 
 #### 📲 사용된 기술 및 Pods
 
-    - MVVM 구조 + programmatically
+    - MVVM + Coordinator
     
-    - 정해진 순서가 있는 16개 이미지 노출을 위한 UICollectionView Custom Layout
+    - Naver Maps 
     
-    - "인스타그램 더보기"와 같은 효과를 주기 위해 TextView layoutManager    
+    - Moya + RxSwift
 
-#### 🔍 [Repository - 관리자 승인 App 상세보기](https://github.com/qbbang/bejewel_admin)
+#### 🔍 [Repository - 관리자 승인 App 상세보기](https://github.com/depromeet/8th_warming-up_3team_iOS)
 
 ------
   　
